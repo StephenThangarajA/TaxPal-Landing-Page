@@ -12,7 +12,7 @@ Easy Integration: Developers can easily integrate the landing page with the main
 Installation
 
 To deploy the Taxpal Landing Page, follow these steps:
-Clone the repository: git clone https://github.com/yourusername/taxpal-landing-page.git
+Clone the repository: git clone https://github.com/stephenthangaraja/taxpal-landing-page.git
 Navigate to the project directory: cd taxpal-landing-page
 Optionally, customize the content and design according to your needs.
 Host the landing page on your preferred web hosting service or server.
