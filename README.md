@@ -29,3 +29,11 @@ Create a new branch: git checkout -b feature-name.
 Make your changes and commit them: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature-name.
 Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify it as needed.
+
+## 📧 Contact
+
+For any queries or support, feel free to reach out to the project maintainer, **Stephen Thangaraj**.
